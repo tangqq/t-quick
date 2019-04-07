@@ -1,10 +1,14 @@
 {
   "name": "t-quick",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "快速构建初始化项目（quick creation of projects）",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangqq/t-quick.git"
   },
   "bin": {
     "tq": "bin/tQuick.js"
